@@ -90,14 +90,14 @@ export default App;
 * A component that provides a scrolling container, allows the user to scroll through a list of components.
     
 
-# `SafeAreaView:`
+## `SafeAreaView:`
 
 * renders nested content and automatically applies padding to reflect the portion of the view that is not covered by navigation bars, tab bars, toolbars, notches, and other ancestor views.
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1675360460777/992b28e7-f24d-46ff-84d1-b0c3faa140cb.jpeg align="center")
 
-That is it for this quick read, thank you for reading, and happy learning ✌️
+That is it for this one, thank you for reading 🙏 and happy learning ✌️
 
 ---
 
