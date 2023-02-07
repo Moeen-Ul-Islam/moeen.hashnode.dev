@@ -102,4 +102,4 @@ I hope I covered all basics related to the folder structure of the react-native 
 
 [LinkedIn](https://www.linkedin.com/in/moeenulislam/)  
 [Twitter](https://twitter.com/moeenulislam_)  
-[Hashnode](https://moeen.hashnode.dev)
+[Hashnode](https://hashnode.com/@moeenulislam)
