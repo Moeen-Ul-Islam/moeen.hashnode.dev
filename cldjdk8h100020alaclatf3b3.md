@@ -64,7 +64,7 @@ Now that we have set up an environment for development, let's build our first re
 create a folder named e.g., react-native and open it in *vscode and enter the below command to initialize the project*
 
 1. ```plaintext
-         npx react-native init ProjectName
+          npx react-native init ProjectName
     ```
     
 
@@ -95,7 +95,7 @@ This command will install all the required dependencies into the project directo
 
 Now, I have written everything in order so that it will be seamless for you to set up the environment and run your first app but you may get issues related to a *variable* that may hinder the process of execution while trying to run the app on the device and to solve that, please follow the below few steps.
 
-1. navigate into the <mark>project folder -&gt; android</mark> and create a file named <mark>local.properties</mark> and create the below variable (note: mention the path according to your own user)
+1. navigate into the <mark>project folder -&gt; android</mark> and create a file named `local.properties` and create the below variable (note: mention the path according to your own user)
     
 2. Save the below variable in the file(note: mention the path according to your own user)
     
