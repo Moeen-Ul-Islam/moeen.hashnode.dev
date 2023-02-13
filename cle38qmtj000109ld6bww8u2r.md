@@ -6,23 +6,23 @@ Separating different parts of your React Native project into dedicated folders c
 
 Some of the key reasons why we should divide our application into multiple folders:
 
-### 1\. Easier to locate and update files
+### Easier to locate and update files
 
 When your project is split into multiple folders, it's easier to locate specific files and components. This can save time when making updates or bug fixes.
 
-### 2\. Better readability
+### Better readability
 
 When your files are well-organized and easy to locate, it makes it easier for other developers to read and understand your code. This can improve collaboration and reduce the risk of errors.
 
-### 3\. Improved scalability
+### Improved scalability
 
 As your project grows, it can become increasingly difficult to manage a large number of files. By organizing your files into dedicated folders, you can improve scalability and make it easier to manage the overall project structure.
 
-### 4\. Separation of concerns
+### Separation of concerns
 
 Dividing your project into folders based on functionality or feature can help separate concerns and improve modularity. This makes it easier to make changes to specific parts of your project without affecting other areas.
 
-### 5\. Better performance
+### Better performance
 
 When your project is well-organized, it can improve the performance of your application. For example, by storing assets in a dedicated folder, you can reduce the size of your application bundle and improve load times.
 
