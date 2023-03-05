@@ -35,8 +35,7 @@ Dash is a powerful Python framework developed by ***Plotly*** for creating inter
 
 Dash applications are made of two fundamentals blocks:
 
-1. ## Dash Layout
-    
+## Dash Layout
 
 It refers to the structure of your web application or dashboard. It defines the arrangement of the different components, such as graphs, tables, dropdowns, sliders, and other UI elements, on the screen.
 
@@ -91,8 +90,7 @@ card = dbc.Card(
 )
 ```
 
-1. ## Dash Callbacks
-    
+## Dash Callbacks
 
 Dash callbacks are a powerful feature of the Dash framework that allows you to create dynamic and interactive web applications.
 
@@ -100,8 +98,7 @@ Dash callbacks are a powerful feature of the Dash framework that allows you to c
 
 Dash Callbacks have two basic components:
 
-1. ### Output
-    
+### Output
 
 It is a class that represents the output component of your application, such as a graph or a text box, that will be updated in response to user input. It takes two arguments `component_id` which specifies the ID of the component that will be updated, while the `component_property` specifies the specific property of the component that will be updated.
 
@@ -109,8 +106,7 @@ It is a class that represents the output component of your application, such as 
 Output(component_id='my-div', component_property'children')
 ```
 
-1. ### Input
-    
+### Input
 
 It is a class that represents the input component of your application, such as a button or a dropdown menu, that triggers your callback function.
 
