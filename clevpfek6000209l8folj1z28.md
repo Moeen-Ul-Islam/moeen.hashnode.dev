@@ -102,8 +102,8 @@ Dash Callbacks have two basic components:
 
 1. ### Output
     
-    It is a class that represents the output component of your application, such as a graph or a text box, that will be updated in response to user input. It takes two arguments `component_id` which specifies the ID of the component that will be updated, while the `component_property` specifies the specific property of the component that will be updated.
-    
+
+It is a class that represents the output component of your application, such as a graph or a text box, that will be updated in response to user input. It takes two arguments `component_id` which specifies the ID of the component that will be updated, while the `component_property` specifies the specific property of the component that will be updated.
 
 ```python
 Output(component_id='my-div', component_property'children')
@@ -111,8 +111,8 @@ Output(component_id='my-div', component_property'children')
 
 1. ### Input
     
-    It is a class that represents the input component of your application, such as a button or a dropdown menu, that triggers your callback function.
-    
+
+It is a class that represents the input component of your application, such as a button or a dropdown menu, that triggers your callback function.
 
 ```python
 Input(component_id='my-slider', component_property='value')
