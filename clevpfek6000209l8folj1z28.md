@@ -196,7 +196,7 @@ if __name__ == '__main__':
     app.run_server(debug=True)
 ```
 
-### Result:
+# Result
 
 ![Result](https://cdn.hashnode.com/res/hashnode/image/upload/v1678037571209/6fcdd790-628a-4711-b405-2c82177fefe2.gif align="left")
 
@@ -208,7 +208,7 @@ Dash is a robust Python framework for creating web apps with interactive data vi
 
 Thank you, readers, I hope this article added some value to your developer life ✌️. Please leave some suggestions, feedbacks if any and share the article with your community.
 
-Connect with the author
+# Connect with the author
 
 [LinkedIn](https://www.linkedin.com/in/moeenulislam/)  
 [Hashnode](https://hashnode.com/@moeenulislam)
