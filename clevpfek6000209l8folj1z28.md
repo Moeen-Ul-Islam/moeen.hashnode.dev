@@ -8,7 +8,7 @@ tags: python, data-science, 2articles1week, hiteshchoudharylco, plotly
 
 ---
 
-# What is Dash?
+# Introduction to Dash?
 
 Dash is a powerful Python framework developed by ***Plotly*** for creating interactive web apps and data visualizations. It includes a plethora of pre-built components and tools that make it simple to build professional-looking applications with minimal coding and without having to learn web technologies like HTML, CSS, JavaScript, etc. Dash is highly scalable, flexible, and simple to use, making it an excellent choice for data scientists, developers, and analysts seeking to create web applications.
 
