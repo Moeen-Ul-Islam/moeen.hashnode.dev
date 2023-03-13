@@ -1,5 +1,5 @@
 ---
-title: ""Comprehensive Guide to Building Interactive Web Applications for Beginners with Dash: A Python Framework for Data Visualization""
+title: "How to build interactive web applications with Dash: A python framework: Comprehensive guide to data visualization"
 datePublished: Sun Mar 05 2023 18:05:59 GMT+0000 (Coordinated Universal Time)
 cuid: clevpfek6000209l8folj1z28
 slug: building-interactive-web-apps-for-beginners-with-dash-a-comprehensive-guide
